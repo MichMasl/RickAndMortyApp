@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RickAndMortyApp</string>
+
+    <string name="menu_title_characters">Characters</string>
+    <string name="menu_title_locations">Locations</string>
+    <string name="menu_title_episodes">Episodes</string>
+
+    <string name="error_massage">No connection</string>
+    <string name="no_characters_message">No characters here</string>
+    <string name="retry_button">retry?</string>
+    <string name="not_found">not found</string>
+
+    <string name="origin">Originated from:</string>
+    <string name="location">Last known location:</string>
+    <string name="seen_in_episode">seen in:</string>
+
+    <string name="toolbar_search_title">Search</string>
+    <string name="toolbar_cache_title">Cache</string>
+    <string name="toolbar_filter_title">Filter</string>
+
+    <string name="character_species_text_input">Species</string>
+    <string name="character_type_text_input">Type</string>
+    <string name="character_status_text_input">Status</string>
+    <string name="character_gender_text_input">Gender</string>
+    <string name="location_type_text_input">Type</string>
+    <string name="location_dimension_text_input">Dimension</string>
+    <string name="episode_episode_text_input">Episode</string>
+</resources>
